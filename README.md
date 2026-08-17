@@ -27,5 +27,6 @@ O resultado esperado é o valor True caso as cartas estejam adequadamente embara
 10 ouros
 1 paus
 5 espadas
+
 ### Saída:
 False
