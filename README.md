@@ -13,7 +13,7 @@ e o número limite de ocorrências a partir do qual o baralho é considerado nã
 cada uma delas indicando o número e o naipe de uma das N cartas.
 O resultado esperado é o valor True caso as cartas estejam adequadamente embaralhas e False em caso contrário.
 
-- Entrada:
+### Entrada:
 12 3
 5 copas
 3 paus
@@ -27,6 +27,5 @@ O resultado esperado é o valor True caso as cartas estejam adequadamente embara
 10 ouros
 1 paus
 5 espadas
-
-- Saída:
+### Saída:
 False
