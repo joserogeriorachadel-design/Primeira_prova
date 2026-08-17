@@ -15,17 +15,29 @@ O resultado esperado é o valor True caso as cartas estejam adequadamente embara
 
 ### Entrada:
 12 3
+
 5 copas
+
 3 paus
+
 7 paus
+
 4 paus
+
 2 paus
+
 8 ouros
+
 8 espadas
+
 10 copas
+
 10 paus
+
 10 ouros
+
 1 paus
+
 5 espadas
 
 ### Saída:
